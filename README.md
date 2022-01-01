@@ -1,2 +1,2 @@
 # RealPhone-Wepsite
-A website with HTML CSS JS
+A landing page website with HTML CSS JS
